@@ -94,7 +94,7 @@ else
  if not lang then
   return '*Group has been removed*'
  else
-  return 'گروه با موفیت از لیست گروه های مدیریتی ربات حذف شد'
+  return 'گروه با موفقیت از لیست گروه های مدیریتی ربات حذف شد'
 end
 end
 local function modlist(msg)
